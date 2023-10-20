@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+table{
+	background-color: yellow;
+border: 1px  solid black;
+border-top:1px solid grey;
+	border-left:1px solid grey;
+font-size:30px;
+	
+}
+
+tr,td,th{
+	border: 1px solid black;
+border-bottom: 1px solid grey;
+	border-right:1px solid grey;
+}
